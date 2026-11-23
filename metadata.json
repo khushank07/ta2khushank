@@ -1,0 +1,6 @@
+{
+  "name": "FSMS23 Syllabus Portal",
+  "description": "Academic course portal and interactive syllabus ledger for FSMS23 SIII SP-V P1: Cyber Law, Risk and Compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
